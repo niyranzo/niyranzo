@@ -1,8 +1,8 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4F46E5,100:312E81&height=230&section=header&text=Nicole%20Yranzo&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20%26%20Modern%20Web&descAlignY=62&descAlign=50&animation=fadeIn"
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&color=0:FF6F91,50:E6A0C4,100:75D6A5&height=260&section=header&text=Nicole%20Yranzo&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descAlignY=63&descAlign=50&animation=fadeIn"
     alt="Nicole Yranzo Banner"
   />
 </p>
@@ -11,34 +11,15 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%2B+Node.js+%2B+Angular;REST+APIs+%7C+SQL+%7C+NoSQL;Building+modern+web+applications;Exploring+Artificial+Intelligence;Always+learning+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1200&color=E6A0C4&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Next.js+%2B+Node.js+%2B+Data+Base;REST+APIs+%7C+SQL+%7C+NoSQL;Building+modern+web+applications;Always+learning+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
 
-<br>
-
 <!-- ========================= INTRO ========================= -->
 
-<p align="center">
 
-💻 <b>Full Stack Web Developer</b> focused on modern web applications  
-<br>
-⚛️ Working with <b>React, Node.js & Angular</b>  
-<br>
-🗄️ Experience with <b>PostgreSQL, MongoDB & REST APIs</b>  
-<br>
-🤖 Currently exploring <b>Artificial Intelligence & AI-powered applications</b>  
-<br>
-📍 Granada, Spain
-
-</p>
-
-<br>
-
----
-
-# 👩🏻‍💻 About Me
+## જ⁀➴About Me
 
 I'm **Nicole Yranzo**, a Full Stack Web Developer based in Granada, Spain.
 
@@ -52,208 +33,147 @@ React, Node.js, Angular, PostgreSQL and MongoDB.
 I'm also interested in **Artificial Intelligence** and how AI can be
 integrated into real-world web applications.
 
-🎯 My current goal is to continue growing as a developer while working
-on challenging software projects and expanding my knowledge of AI.
 
----
+## જ⁀➴Tech Stack
 
-# 🛠️ Tech Stack
+### ✦ Frontend
 
-## 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<p align="center">
+### ✦ Backend
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular&theme=light" />
-</a>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-</p>
+### ✦ Databases
 
-## ⚙️ Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
+### ✦ Tools & Workflow
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
-</a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-</p>
+## જ⁀➴Featured Projects
+<div id="proyectos">
+  
+<table align="center">
+<tr border="none">
 
-## 🗄️ Databases
+<!-- QIVET -->
 
-<p align="center">
+<td width="50%" align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" />
-</a>
-
-</p>
-
-## 🔧 Tools & Workflow
-
-<p align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jira&theme=light" />
-</a>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🐾 QIVET — Veterinary Management Platform
-
-Full Stack web application developed for the management of veterinary
-clinics.
-
-### Technologies
-
-`React` · `Node.js` · `PostgreSQL`
-
-### Features
-
-- 👥 Client management
-- 📅 Appointment management
-- 🩺 Veterinary consultation management
-- 🗄️ PostgreSQL database
-- 🔄 Separate frontend/backend architecture
-- ⚡ Efficient data management and navigation
+<h3>🐾 QIVET</h3>
 
 <p align="center">
-
-<a href="YOUR_QIVET_REPOSITORY">
-  <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img
+    src="https://raw.githubusercontent.com/niyranzo/tu-repositorio/main/assets/qivet.png"
+    width="90%"
+    alt="QIVET"
+  />
 </p>
 
----
+<p>
+  Aplicación Full Stack para la gestión de una clínica veterinaria.
+</p>
 
-## 🌐 Web Development Projects
-
-Collection of personal and practical projects focused on modern
-web development.
-
-Technologies include:
-
-`JavaScript` · `React` · `Node.js` · `HTML` · `CSS`
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 <p align="center">
-
-<a href="https://github.com/niyranzo?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/niyranzo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+</td>
 
-# 🤖 AI & Current Learning
+<!-- PROYECTO 2 -->
 
-I'm currently expanding my knowledge in **Artificial Intelligence**
-and its integration with software applications.
+<td width="50%" align="center">
 
-### Currently exploring
+<h3>💻 Proyecto Web</h3>
 
-- 🤖 Generative AI
-- 🧠 AI APIs & LLM integration
-- ✨ Prompt Engineering
-- ⚛️ AI-powered web applications
-- 🔷 TypeScript
-- ▲ Next.js
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/niyranzo/tu-repositorio/main/assets/proyecto.png"
+    width="90%"
+    alt="Proyecto Web"
+  />
+</p>
 
-The goal is to combine my Full Stack background with AI to build
-useful and practical applications.
+<p>
+  Aplicación web desarrollada utilizando tecnologías modernas.
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-# 📚 Education & Continuous Learning
+<p align="center">
+  <a href="https://github.com/niyranzo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-🎓 **Web Application Development (DAW)**  
+</td>
+
+</tr>
+</table>
+
+</div>
+
+## જ⁀➴Education & Continuous Learning
+
+⌨ **Web Application Development (DAW)**  
 IES Politécnico Hermenegildo Lanz — Granada
 
-📖 **Programming with AI & Prompting**  
+🖰 **Multiplatform Application Development (DAW)**  
+IES Politécnico Hermenegildo Lanz — Granada
+
+☻ **Programming with AI & Prompting**  
 210 hours
 
-📊 **Data Analyst with AI**  
+◔ **Data Analyst with AI**  
 160 hours
 
----
-
-# 📊 GitHub Stats
+## જ⁀➴GitHub Stats
 
 <p align="center">
 
-<a href="https://github.com/niyranzo">
+  <a href="https://github.com/niyranzo">
+    <img
+      src="https://streak-stats.demolab.com/?user=niyranzo&hide_border=true&background=151B23&ring=FF6F91&fire=FF6F91&currStreakLabel=75D6A5&sideLabels=75D6A5&dates=777777&currStreakNum=FF6F91&sideNums=75D6A5"
+      height="180"
+      alt="GitHub Streak"
+    />
+  </a>
 
-<img
-  height="170"
-  src="https://github-readme-stats-fast.vercel.app/api?username=niyranzo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Nicole's GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=niyranzo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  alt="Nicole's Top Languages"
-/>
-
-</a>
-
-</p>
-
----
-
-# 📈 My Development Journey
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=niyranzo&theme=tokyo-night&hide_border=true"
-  alt="GitHub Activity Graph"
-/>
+  <a href="https://github.com/niyranzo">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=niyranzo&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=FF6F91&text_color=555555&bg_color=151B23"
+      height="180"
+      alt="Nicole's Top Languages"
+    />
+  </a>
 
 </p>
 
----
+## જ⁀➴Let's Connect
 
-# 🌐 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F91?style=for-the-badge&logo=googlechrome&logoColor=white)](https://niyranzo.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoleyranzo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yranzo.nicole@gmail.com)
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nicoleyranzo/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:yranzo.nicole@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://niyranzo.github.io/my-portfolio/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
-</p>
-
-<br>
-
----
-
-<p align="center">
-
-### 💡 Build · Learn · Improve
-
-Thanks for visiting my profile! 👋
-
-</p>

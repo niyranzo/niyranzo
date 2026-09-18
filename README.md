@@ -75,7 +75,7 @@ integrated into real-world web applications.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/niyranzo/tu-repositorio/main/assets/qivet.png"
+    src="https://raw.githubusercontent.com/niyranzo/niyranzo/main/assets/qivet.png"
     width="90%"
     alt="QIVET"
   />
@@ -103,18 +103,18 @@ integrated into real-world web applications.
 
 <td width="50%" align="center">
 
-<h3>💻 Proyecto Web</h3>
+<h3>💻 Portfolio</h3>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/niyranzo/tu-repositorio/main/assets/proyecto.png"
+    src="https://raw.githubusercontent.com/niyranzo/niyranzo/main/assets/portfolio.png"
     width="90%"
     alt="Proyecto Web"
   />
 </p>
 
 <p>
-  Aplicación web desarrollada utilizando tecnologías modernas.
+  Portfolio Web público.
 </p>
 
 <p>
